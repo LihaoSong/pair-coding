@@ -12,3 +12,5 @@ function volumeOfContainer(sizes) {
 }
 
 console.log(volumeOfContainer([2, 5, 1])); // 10
+
+
